@@ -1,0 +1,18 @@
+body{
+	background-image: url("../image/background.png");
+	background-repeat: no-repeat;
+	background-position: center;
+  background-color: #1166EE;
+  width: 100%;
+height: auto;
+}
+/*html{
+  background-color : #1166EE;
+}
+*/
+
+body {
+  cursor: url("../image/fish.png") 0 12,pointer;
+  display: block;
+  height: 460px;
+}
